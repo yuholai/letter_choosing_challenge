@@ -460,7 +460,7 @@ void display_2()
 		"choose the best option.\n\n"
 		"This puzzle is originated by Wildcat on Codingame.com as a practice "
 		"to implement Mini-Max algorithm and alpha-beta pruning.\n\n"
-		"by HoYu\n\n";
+		"by yuholai\n\n";
 }
 
 void display_4_3()
